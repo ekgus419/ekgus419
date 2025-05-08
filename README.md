@@ -1,14 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=DaHyun%20Chae's%20GitHub&fontSize=40&fontAlignY=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=180&section=header&text=dh_0419's%20GitHub&fontSize=40&fontAlignY=40&fontColor=ffffff" />
 </div>
-
-### <div align="center">탄탄한 설계와 안정성을 지향하는 백엔드 개발자 채다현입니다. 🧩🚀</div>
-
-- 🔭 현재 FastAPI 기반의 사내 시스템을 개발하며, 구조화된 로깅 시스템과 DI 아키텍처를 적용하고 있습니다.  
-- ❓ Spring 개발 경험을 바탕으로, Python(FastAPI)에서도 동일한 설계 원칙과 구조를 고민하며 적용해 나가고 있습니다.  
-- ⚡ TMI: PHP 레거시 시스템을 FastAPI로 마이그레이션하면서 팀의 유지보수 부담이 확 줄었습니다 😄
-
-<br/>
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
